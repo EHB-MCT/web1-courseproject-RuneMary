@@ -127,7 +127,7 @@ body {
 .footer {
 	background-color: #f4f4f4;
 	padding-top: 20px;
-	height: 100px;
+	height: 120px;
 }
 
 .footer p {
@@ -137,4 +137,8 @@ body {
 .button {
 	color: #c8a2d4;
 	display: inline-block;
+}
+
+.footerImages {
+	padding-left: 30px;
 }
